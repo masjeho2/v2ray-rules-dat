@@ -500,6 +500,7 @@ youtubekids.com
 youtubemobilesupport.com
 yt.be
 ytimg.com
+googleapis.com
 
 # > Bigo TV
 bigo.sg
