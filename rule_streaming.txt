@@ -323,6 +323,7 @@ vrv.co
 vudu.com
 
 # > Youtube
+googleapis.com
 googlevideo.com
 video.google.com
 videogoogle.com
