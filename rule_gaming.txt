@@ -244,4 +244,4 @@ keyword:kgid
 keyword:aovtv
 
 # > star rail ( com.starrail.game
-starrail.com
+starrails.com
