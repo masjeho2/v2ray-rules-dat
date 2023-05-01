@@ -27,7 +27,7 @@ jobs:
           echo "OISD_NSFW=https://hosts.oisd.nl/nsfw/" >> $GITHUB_ENV
           echo "DOH_DNS=https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt" >> $GITHUB_ENV
           echo "RULE_ADS=https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt" >> $GITHUB_ENV
-          echo "RULE_GAME=https://raw.githubusercontent.com/rfxcll/v2ray-rules-dat/rule/rule_gaming.txt" >> $GITHUB_ENV
+          echo "RULE_GAME=https://raw.githubusercontent.com/masjeho2/v2ray-rules-dat/rule/rule_gaming.txt" >> $GITHUB_ENV
           echo "RULE_INDO=https://raw.githubusercontent.com/rfxcll/v2ray-rules-dat/rule/rule_indo.txt" >> $GITHUB_ENV
           echo "RULE_PS=https://raw.githubusercontent.com/rfxcll/v2ray-rules-dat/rule/rule_playstore.txt" >> $GITHUB_ENV
           echo "RULE_SOSMED=https://raw.githubusercontent.com/rfxcll/v2ray-rules-dat/rule/rule_sosmed.txt" >> $GITHUB_ENV
