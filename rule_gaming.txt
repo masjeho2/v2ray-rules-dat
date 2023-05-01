@@ -242,3 +242,6 @@ live.qcloud.com
 full:cloud2.gsdk.proximabeta.com
 keyword:kgid
 keyword:aovtv
+
+# > star rail ( com.starrail.game
+starrail.com
